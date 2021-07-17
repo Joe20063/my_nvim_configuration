@@ -1,6 +1,7 @@
 call plug#begin()
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'codota/tabnine-vim'
 Plug 'scrooloose/nerdtree'
 Plug 'voldikss/vim-floaterm'
 Plug 'trevordmiller/nova-vim'
